@@ -8,6 +8,8 @@ libraryDependencies += "org.scalactic" %% "scalactic" % "3.0.1"
 
 libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.1" % "test"
 
+libraryDependencies += "org.scalafx" %% "scalafx" % "8.0.102-R11"
+
 // Exclude some folders associated with IntelliJ
 ideaExcludeFolders += ".idea"
 
